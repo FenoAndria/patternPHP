@@ -1,9 +1,8 @@
 {
-    "name": "fenomanjato/pattern",
+    "name": "patternPHP",
     "authors": [
         {
             "name": "fenomanjato",
-            "email": "feno.andriamorasata@gmail.com"
         }
     ],
     "autoload": {

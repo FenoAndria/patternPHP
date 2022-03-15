@@ -1,4 +1,3 @@
-<!-- feno.andriamorasata@gmail.com -->
 Design Pattern 
 
 -----PHP-----
